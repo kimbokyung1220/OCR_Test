@@ -10,6 +10,6 @@
 #### ❗❗ application.propertise 필요해요!
 #### ❗❗ Google Vision Cloude - key.json 필요해요!
 
-#### 🔖 참고TSTORY: https://bkyungkeem.tistory.com/manage/newpost/36?type=post&returnURL=https%3A%2F%2Fbkyungkeem.tistory.com%2F36
+#### 🔖 참고TSTORY: https://bkyungkeem.tistory.com/36
 
 
