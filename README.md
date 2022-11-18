@@ -11,6 +11,6 @@
 #### ❗❗ application.propertise 필요해요!
 #### ❗❗ Google Vision Cloude - key.json 필요해요!
 
-#### 🔖 참고TSTORY: https://bkyungkeem.tistory.com/36
+#### 🔖 참고TSTORY: https://bkyungkeem.tistory.com/42
 
 
