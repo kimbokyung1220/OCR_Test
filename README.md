@@ -1,6 +1,7 @@
 #### 🍃 SpringBoot -version '2.7.5'
 #### 🌏 java -version 11
-#### 🐘 gradle
+#### 🐘 radle
+#### ☁️ Google Cloud Vision API - OCR
 
 ## 🔍 Introduce  
 ### 미니프로젝트로 명함이미지 내 텍스트를 추출하는 기능을 맡게되어 Google Vision Cloude 오픈API를 사용해서 OCR기능을 구현해봤습니다.
