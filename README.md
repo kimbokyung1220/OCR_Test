@@ -3,7 +3,7 @@
 #### 🐘 radle
 #### ☁️ Google Cloud Vision API - OCR
 
-## 🔍 Introduce  
+### 🔍 Introduce  
 ### 미니프로젝트로 명함이미지 내 텍스트를 추출하는 기능을 맡게되어 Google Vision Cloude 오픈API를 사용해서 OCR기능을 구현해봤습니다.
 
 ####  📃 패키지 및 클래스는 이렇습니다!
